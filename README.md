@@ -6,7 +6,7 @@ Un réseau social pour publier des images construit avec MongoDB, Express.js, Re
 
 ## Pour commencer
 
-Ajouter l'ID client OAuth 2.0 au fichier example.env du répertoire client puis la clé secrète du token et les informations de la base de donnée dans le même fichier du répertoire "server" puis renommer les fichiers ".env".
+Ajouter la clé secrète du token et les informations de la base de donnée au fichier example.env du répertoire "server" puis renommer le fichier ".env".
 
 ### Pré-requis
 
